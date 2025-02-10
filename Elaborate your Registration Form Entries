@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My School</title>
+
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="school website.html">Home</a></li>
+                <li><a href="">About us</a></li>
+                <li><a href="">Academics</a></li>
+                <li><a href="">Admission</a></li>
+                <li><a href="">Notice Panel</a></li>
+                <li><a href="">Club Activities</a></li>
+                <li><a href="">Gallery</a></li>
+                <li><a href="">Contact us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main><img src="bsi.jpg" alt="Our logo" height="500" width="1500px">
+        <section>
+            <article>
+                <h1>Baridhara Scholars' International School & College</h1>
+                <p><strong>Baridhara Scholars’ International School and College (BSISC)</strong>, currently administrated by <b>Bangladesh Army</b>, is a premier esteemed institution that is situated at <mark>DOHS, Baridhara, Dhaka Cantonment, Dhaka-1206</mark>. There are <b>52</b> educational institutions which are run by Bangladesh Army and BSISC is one of them.</p>
+                <p><i>Since <mark>2001,</mark></i> BSISC has been offering quality education for all. Focusing on this commitment and under the prudent leadership of current principal,<i><b> Brigadier General Sheikh Shariful Islam, PhD <small>(Retd)</small></b></i>, this institution is spreading the true spirit of education among the existing learners. </p>
+                <p><b><i>This institution provides quality education that prepares students with essential knowledge and skills. It also fosters growth in students’ social, emotional, and ethical dimensions. Enthusiastic students are facilitated with a well-furnished library with ample collection of books. They are also ensured modern facilities for using a computer lab. There are lots of club activities that nurture students’ latent skills, such as-
+                <ul>
+                    <li>science club</li>
+                    <li>math club</li>
+                    <li>language club</li>
+                    <li>music club</li>
+                    <li>dance club</li>
+                    <li>ICT club</li>
+                    <li>general knowledge club</li>
+                    <li>drama club</li>
+                    <li>wall magazine club</li>
+                    <li>debate club</li>
+                    <li>sports club</li>
+                    <li>karate club</li>
+                </ul></i></b></p>
+                <p> <b><i>It also gives the students a opportunity of demonstrating and nurturing their talent in both indoor 7 outdoor games too.We are also offering BNCC <small>(Bangladesh National Cadet Corps)</small> facilities aiming for the overall development of national curriculum students in Bangladesh, preparing them to be responsible, skilled, and well-rounded citizens.</i></b> </p>
+                <p>Our International Curriculum is highly associated with the <b>DofE <small>(Duke of Edinburgh Award)</small></b> programme. The Duke of Edinburgh’s Award is a royal charter corporation. The Duke of Edinburgh’s International Award Foundation, promotes the award abroad and acts as a coordinating body for award sponsors in other nations. In Bangladesh, the award is offered under The Duke of Edinburgh’s International Award Foundation Bangladesh, which has been based on in Dhaka since 2008. Various schools and universities participate and they achieve Bronze, Silver and Gold medals. </p>
+                <p>Our motto is <q><b>Quality Education for Excellence.</b></q></p>
+                <p>We have 4 houses which are-
+                <ol>
+                    <li>Kazi Nazrul Islam House</li>
+                    <li>Dr. Mohammad Shahidullah House</li>
+                    <li>Maulana Bhashani House</li>
+                    <li>Zainul Abedin House</li>
+                </ol>  
+                </p>
+                Our class timings are as follows:
+                <table border="6">
+                    <tr>
+                        <th>Class</th>
+                        <th>Assembly</th>
+                        <th>Class Hours</th>
+                        <th>Tiffin Break</th>
+                    </tr>
+                    <tr>
+                        <td>Nursery & KG(1st shift)</td>
+                        <td>08:20</td>
+                        <td>08:30-11:10</td>
+                        <td>09:40-10:00</td>
+                    </tr>
+                    <tr>
+                        <td>Nursery & KG(2nd shift)</td>
+                        <td>--</td>
+                        <td>11:35-14:15</td>
+                        <td>12:45-01:05</td>
+                    </tr>
+                    <tr>
+                        <td>Std-I</td>
+                        <td>08:20</td>
+                        <td>08:30-11:10</td>
+                        <td>10:20-10:40</td>
+                    </tr>
+                    <tr>
+                        <td>Std-II</td>
+                        <td>08:20</td>
+                        <td>08:30-12:15</td>
+                        <td>11:10-11:35</td>
+                    </tr>
+                    <tr>
+                        <td>Std/Class-III to Std/Class-V </td>
+                        <td>08:20</td>
+                        <td>08:30-12:55</td>
+                        <td>11:10-11:35</td>
+                    </tr>
+                    <tr>
+                        <td>Std/Class-VI to Std/Class-XII </td>
+                        <td>08:20</td>
+                        <td>08:30-13:35</td>
+                        <td>11:10-11:35</td>
+                    </tr>
+                </table><br>
+                <h2>**Complete the given Student ID form to get more important notices and messages including updating your pen picture form & student record.**</h2>
+                <Form>
+                    <legend>Student ID Form </legend>
+                    <fieldset>
+                        <label>Name</label><br>
+                        <input type="text" placeholder="Your full name(Block letter)"><br>
+                        <label>Age</label><br>
+                        <input type="number" placeholder="Current age"><br>
+                        <label>Class</label><br>
+                        <select name="Std/Class" id="Std/Class">
+                            <option value="Nursery">Nursery</option>
+                            <option value="KG">Kg</option>
+                            <option value="I">I</option>
+                            <option value="II">II</option>
+                            <option value="III">III</option>
+                            <option value="IV">IV</option>
+                            <option value="V">V</option>
+                            <option value="VI">VI</option>
+                            <option value="VII">VII</option>
+                            <option value="VIII">VIII</option>
+                            <option value="IX">IX</option>
+                            <option value="X">X</option>
+                            <option value="SSC Batch">SSC Batch</option>
+                            <option value="XI">XI</option>
+                            <option value="XII/HSC Batch">XII/HSC Batch</option>
+                            </select><br>
+                        <label>Roll</label><br>
+                        <input type="number" placeholder="Current roll"><br>
+                        <label>Student ID No.</label><br>
+                        <input type="password" placeholder="Your Student ID no."><br>
+                        <label>Birth Registration No.</label><br>
+                        <input type="text" placeholder="Your Birth Reg. No."><br>
+                        <label>Present address</label><br>
+                        <input type="text" placeholder="Your Present address"><br>
+                        <label>Permanent address</label><br>
+                        <input type="text" placeholder="Your Permanent address"><br><br>
+                        <label>Your Gender</label><br>
+                        <input type="radio" name="Gender" value="male">Male <br>
+                        <input type="radio" name="Gender" value="female">Female <br><br>
+                        <label>Students Qualities</label><br>
+                        <input type="checkbox" name="Dance" value="Dance">Dance<br>
+                        <input type="checkbox" name="Singing" value="Singing">Singing<br>
+                        <input type="checkbox" name="Recitation" value="REcitation">Recitation<br>
+                        <input type="checkbox" name="Sports" value="Sports">Sports<br>
+                        <input type="checkbox" name="Crafts" value="Crafts">Crafts<br>
+                        <input type="checkbox" name="Drama" value="Drama">Drama<br>
+                        <input type="checkbox" name="Swimming" value="Swimming">Swimming<br>
+                        <input type="checkbox" name="Drawing" value="Drawing">Drawing<br>
+                        <input type="checkbox" name="Karate" value="Karate">Karate<br>
+                        <input type="checkbox">Others <br>
+                        <br><button><a href="">Submit</a></button><br>
+                    </fieldset>
+                </Form>
+                <a href="https://www.facebook.com/bsi.baridhara"><b>"Visit our official Facebook page"</b></a>
+            </article>
+        </section>
+        <figure>
+            <img src="https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/476560249_1187265550065625_5054301144055626908_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Oseo2GdqYUIQ7kNvgEbcuLx&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=A0Cq8sVSo0ywpHL_ewTdLqo&oh=00_AYCc6c-PyACzCuW61eCMlLkPMhR2zPQoxABWa5o5u4Y1-A&oe=67ABFD7C" alt="pic 1"length=100px width="450">
+            <img src="https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/476484226_1187265573398956_650041122403986345_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_4JPVdYFmgcQ7kNvgES4k9_&_nc_zt=23&_nc_ht=scontent.fdac24-3.fna&_nc_gid=Aj_T7jP-K91TM8ioN2XIT2L&oh=00_AYA_xkcIJu0sT8KFUo8XTJNSsYrQF-iqhEYg2fggFeL4mA&oe=67ABF496" alt="pic 2"length=100px width="450">
+            <img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/476556905_1187266000065580_7626696980749806383_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4pXbzvCwYYQQ7kNvgE1OMQh&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=AkE2dbxY_3CCFpkOAvw9RSM&oh=00_AYA1ubYVl54N56kv6TXpLAn-dI4AVMGzkLPX5yIl-Gl1gw&oe=67ABCBC0" alt="pic 3"length=100px width="450">
+            <img src="https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/476481597_1187268846731962_6665127459011075015_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9U8F0vvffyIQ7kNvgFqUGXZ&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=AxC-hXiw9O3zIBrOiy_pKle&oh=00_AYC9QC3YuWemwluzUZy1U6w0g_0DIL3yFr3dqf60qQvaTQ&oe=67ABD044" alt="pic 4"length=100px width="450">
+            <img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/476506452_1187272816731565_5409805312062743992_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CuRKwa-S_IsQ7kNvgHdmR9P&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=AHA2WBtZwY0GAAZDfe3W1eh&oh=00_AYBTfR9JzCWY3HlVe1MGKTJE4PegZwEvPRlUG_03wO8GDg&oe=67ABE126" alt="pic 5"length=100px width="450">
+            <img src="https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/476589146_1187273356731511_3926303635844181024_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SDVocQXU05gQ7kNvgG_zseM&_nc_zt=23&_nc_ht=scontent.fdac24-3.fna&_nc_gid=AGcRKPt8McmIjcQRT1egkN-&oh=00_AYCC0Hopw9IRyQD3HfiUBIWFPR9u0oX8i5f3Id_mVfEqKw&oe=67ABE44A" alt="pic 6"length=100px width="450">
+            <img src="https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/476485395_1187273253398188_8227095718556732491_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rlAVA75V3eQQ7kNvgGmevPm&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=AeVlTdfQrUW8-IF3IMoflvO&oh=00_AYBwXswhIoXLucg9gwzYjTGFXsTdKSQmFpNj-8ughrwt7g&oe=67ABEECF" alt="pic 7"length=100px width="450">
+            <figcaption><b>Recent Events: Annual Sports Meet 2025</b></figcaption>
+        </figure>
+    </main>
+    <footer>
+        Contact info-- <br>
+        <b>Phone no.: 02-8415585 <br>
+            Email: bsi_school@yahoo.com</b>
+    </footer>
+</body>
+</html>
