@@ -1,0 +1,99 @@
+body{
+    background:linear-gradient(to left,blue,darkcyan,aqua);
+    font-size: 20px;
+}
+main{
+    background-image: url(bsi.jpg);
+    background-position:top center;
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+ table{
+    color:rgb(30, 104, 239);
+    background-color:cornsilk;
+}
+.a{
+    color:wheat;
+}
+h1{
+    text-indent: 35%;
+    color: darkmagenta;
+    text-shadow: 2px 2px 1px navy;
+}
+i{color: firebrick;}
+form{background:linear-gradient(to right,black,darkslategrey,grey);
+color: rgb(250, 198, 134);}
+footer{background-color: gainsboro;
+color: brown;}
+@keyframes HEAD {
+    0%{background-color: darkslateblue;}
+    10%{background-color: dodgerblue;}
+    20%{background-color: cornflowerblue;}
+    30%{background-color: lightskyblue;}
+    40%{background-color: deepskyblue;}
+    50%{background-color: royalblue;}
+    60%{background-color: blue;}
+    70%{background-color: purple;}
+    80%{background-color: plum;}
+    90%{background-color: hotpink;}
+    100%{background-color:firebrick;}
+}
+div{text-shadow: 2px 2px 2px rgb(212, 15, 15);
+    height: 200px;
+    width: 200px;
+    background-color: rgb(175, 117, 76);
+    animation-name: HEAD;
+    animation-duration: 10s;
+}
+.a:hover{
+    color: aqua;
+    background-color: black;
+}
+.Club{
+    background-color: rgb(178, 247, 109);
+    box-shadow: 5px 5px 2px white;
+    font-family: Brush Script MT,Copperplate Gothic Light;
+    text-transform: uppercase;
+    text-decoration:underline;
+}
+#a::after{
+    content: "🧬";
+}
+#b::after{
+    content: "🧮";
+}
+#c::after{
+    content: "🌐";
+}
+#d::after{
+    content: "🎶";
+}
+#e::after{
+    content: "💃🏻";
+}
+#f::after{
+    content: "🖥️";
+}
+#g::after{
+    content: "💡";
+}
+#h::after{
+    content: "🎭";
+}
+#i::after{
+    content: "🖼️";
+}
+#j::after{
+    content: "🧬";
+}
+#k::after{
+    content: "🏸";
+}
+#l::after{
+    content: "🥋";
+}
+p::first-letter{
+    font-size: 200%;
+    color: navy;
+}
