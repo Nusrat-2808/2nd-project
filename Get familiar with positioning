@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        header{
+            background-color: bisque;
+        }
+        h1{
+            text-align: center;
+            text-decoration: underline overline;
+            text-decoration-color:darkseagreen ;
+            font-family: fantasy;
+        }
+        nav{
+            float: left;
+            margin-bottom: 60px;
+            margin-right: 30px;
+            height: 590px;
+            line-height:70px;
+            background-color: blanchedalmond;
+            position: fixed;
+        }
+        .a:hover{
+            color: dimgray;
+            font-weight: bold;
+        }
+        #p1{
+            padding: 3px 3px 3px 3px;
+            margin-left: 180px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            border: 3px solid olive;
+        }
+        #p2{
+            padding: 3px 3px 3px 3px;
+            margin-left: 180px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            border: 3px solid olive;
+        }
+        #p3{
+            padding: 3px 3px 3px 3px;
+            margin-left: 180px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            border: 3px solid olive;
+        }
+        #p4{
+            padding: 3px 3px 3px 3px;
+            margin-left: 180px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            border: 3px solid olive;
+        }
+        div:hover{
+            font-weight: bold;
+            background-color: lightgreen;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Health Benefitters</h1>
+        <div>
+            <nav>
+                <ul>
+                    <li><a href="#" class="a">Home</a></li>
+                    <li><a href="#" class="a">About us</a></li>
+                    <li><a href="#" class="a">Healthy lifestyle</a></li>
+                    <li><a href="#" class="a">Sports</a></li>
+                    <li><a href="#" class="a">Exercises</a></li>
+                    <li><a href="#" class="a">Balanced Diet</a></li>
+                    <li><a href="#" class="a">Diseases</a></li>
+                    <li><a href="#" class="a">Contact us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div id="p1">
+            Chia seeds offer numerous health benefits, including being a good source of fiber, antioxidants, and omega-3 fatty acids, which can improve digestion, heart health, and blood sugar control, while also supporting bone health and potentially aiding in weight management. 
+                Here's a more detailed look at the benefits:
+                Nutritional Powerhouse:
+                Fiber Rich:
+                Chia seeds are packed with both soluble and insoluble fiber, which aids in digestion, promotes a feeling of fullness, and can help regulate blood sugar levels. 
+                Antioxidant Power:
+                They are rich in antioxidants, which help protect the body against damage from free radicals. 
+                Omega-3 Fatty Acids:
+                Chia seeds are a good source of omega-3 fatty acids, which are essential for heart health and can reduce inflammation. 
+                Complete Protein:
+                They contain all nine essential amino acids, making them a source of complete protein. 
+                Rich in Minerals:
+                Chia seeds are a good source of calcium, magnesium, and phosphorus, which are important for bone health. 
+                Nutrient-Dense:
+                They are considered a nutrient-dense food, meaning they provide a lot of nutrients for the relatively small amount of calories. 
+                Specific Health Benefits:
+                Improved Digestion:
+                The high fiber content aids in digestion and promotes regularity. 
+                Heart Health:
+                Omega-3 fatty acids in chia seeds can help lower blood pressure and reduce the risk of heart disease. 
+                Blood Sugar Control:
+                The fiber in chia seeds can help regulate blood sugar levels, making them a good choice for people with diabetes or those at risk of developing it. 
+                Bone Health:
+                Chia seeds are rich in calcium, magnesium, and phosphorus, which are essential for maintaining strong bones. 
+                Weight Management:
+                The high fiber content can promote a feeling of fullness, which can help with weight loss. 
+                Antioxidant Protection:
+                Antioxidants in chia seeds help protect the body against damage from free radicals, which can contribute to chronic diseases. 
+                Iron Source:
+                Chia seeds are a good source of iron, which is important for carrying oxygen in the blood.
+        </div>
+        <div id="p2">
+            Green tea, rich in antioxidants like EGCG, offers numerous health benefits, including supporting heart and brain health, potentially reducing cancer risk, and aiding in weight management. 
+            Here's a more detailed look at the potential benefits of green tea:
+            Heart Health:
+            Reduced Risk of Heart Disease:
+            Green tea may help lower cholesterol levels, which can reduce the risk of heart disease, heart attacks, and strokes.
+            Improved Cardiovascular Health:
+            The antioxidants in green tea can help improve blood flow and reduce inflammation, further supporting heart health.
+            Lower Blood Pressure:
+            Some studies suggest that green tea may help lower blood pressure, another factor contributing to heart health. 
+            Brain Health:
+            Improved Cognitive Function:
+            Green tea contains compounds like L-theanine, which may improve focus, memory, and mental alertness. 
+            Potential Protection Against Neurodegenerative Diseases:
+            Some research suggests that green tea consumption may be associated with a lower risk of Alzheimer's and Parkinson's disease. 
+            Mood Enhancement:
+            L-theanine in green tea may also help reduce anxiety and promote a sense of calm. 
+            Other Potential Benefits:
+            Weight Management:
+            Green tea may help boost metabolism and promote fat burning, potentially aiding in weight loss. 
+            Cancer Prevention:
+            The antioxidants in green tea, particularly EGCG, may help protect cells from damage and reduce the risk of certain cancers. 
+            Improved Immunity:
+            Green tea contains antioxidants that can help strengthen the immune system and protect against illness. 
+            Blood Sugar Control:
+            Some studies suggest that green tea may help improve blood sugar control and reduce the risk of type 2 diabetes. 
+            Skin Health:
+            Green tea's anti-inflammatory properties can help reduce skin irritation and redness, and it may also help with skin rejuvenation and repair. 
+            Dental Health:
+            Green tea may help prevent tooth decay due to its natural fluoride content. 
+            Bone Health:
+            Green tea may help strengthen bones and protect against osteoporosis. 
+        </div>
+        <div id="p3">
+            Yoga offers numerous benefits, including improved flexibility, strength, balance, and mental well-being, while also aiding in stress reduction, pain management, and potentially boosting the immune system. 
+Physical Benefits:
+Increased Flexibility, Strength, and Balance:
+Yoga poses, or asanas, promote stretching and strengthening various muscle groups, enhancing overall flexibility, strength, and balance. 
+Improved Cardiovascular Health:
+Regular yoga practice can help lower blood pressure and heart rate, potentially benefiting individuals with hypertension or heart conditions. 
+Pain Management:
+Yoga can help alleviate chronic pain, such as lower back pain, arthritis, and headaches, through relaxation techniques and physical postures. 
+Improved Posture and Circulation:
+Yoga can help improve posture and circulation by strengthening core muscles and promoting better body alignment. 
+Weight Management:
+Yoga can contribute to weight management by increasing metabolism and promoting physical activity. 
+Improved Sleep:
+Yoga's relaxation techniques and calming effects can help improve sleep quality and reduce insomnia. 
+Enhanced Immune System:
+Yoga can help boost the immune system by reducing stress and promoting overall well-being. 
+Mental and Emotional Benefits:
+Stress and Anxiety Reduction:
+Yoga's focus on breathing, mindfulness, and relaxation techniques can help reduce stress and anxiety levels. 
+Improved Mental Clarity and Focus:
+Regular yoga practice can enhance mental clarity, focus, and concentration. 
+Emotional Regulation:
+Yoga can help individuals become more aware of their emotions and develop better coping mechanisms for stress and difficult situations. 
+Increased Self-Awareness and Body Awareness:
+Yoga promotes a deeper connection with the body, enhancing self-awareness and body awareness. 
+Improved Mood and Overall Well-being:
+Yoga can help improve mood, reduce feelings of depression, and promote a sense of overall well-being. 
+        </div>
+        <div id="p4">
+            Carrots, rich in vitamins A and C, beta-carotene, and fiber, offer numerous health benefits, including improved vision, a boosted immune system, healthy digestion, and potential cancer prevention. 
+Here's a more detailed look at the benefits of carrots:
+Eye Health:
+Vitamin A and Beta-Carotene:
+Carrots are an excellent source of beta-carotene, which the body converts into vitamin A, crucial for maintaining healthy vision, especially in low-light conditions.
+Macular Degeneration and Cataracts:
+Some studies suggest that the antioxidants in carrots, like lutein and zeaxanthin, may help reduce the risk of age-related macular degeneration and cataracts. 
+Immune System:
+Vitamin C and Antioxidants:
+Carrots contain vitamin C, a powerful antioxidant that helps protect the body from damage caused by free radicals and supports immune function.
+Beta-Carotene:
+Beta-carotene, another antioxidant, can help strengthen the immune system and protect against infections. 
+Digestive Health:
+Fiber:
+Carrots are a good source of dietary fiber, which promotes healthy digestion, prevents constipation, and supports a healthy gut microbiome.
+Constipation Relief:
+The fiber in carrots can help soften stools and make bowel movements easier, relieving constipation. 
+Other Benefits:
+Skin Health:
+The antioxidants in carrots, especially beta-carotene, can help protect the skin from sun damage and promote healthy skin. 
+Weight Management:
+Carrots are low in calories and high in fiber, which can help you feel full and satisfied, potentially aiding in weight loss. 
+Heart Health:
+The potassium in carrots can help regulate blood pressure, and the antioxidants can protect against heart disease. 
+Potential Cancer Prevention:
+Some studies suggest that the antioxidants in carrots may help reduce the risk of certain types of cancer. 
+Brain Health:
+Carotenoids in carrots may offer neuroprotective benefits, potentially reducing the risk of cognitive decline. 
+        </div>
+    </main>
+</body>
+</html>
